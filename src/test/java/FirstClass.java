@@ -73,6 +73,8 @@ public class FirstClass {
          before we can push.
 
          git pull  ---> takes the changes from remote (fetch) and merges with the local
+         modified
+
 
 
 
