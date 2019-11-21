@@ -6,5 +6,15 @@ public class SecondClass {
         System.out.println(myname);
         System.out.println("MOdified");
 
+
+        /**
+
+         GIT PUSH :
+                    git push origin master
+
+         GIT PULL
+
+         */
+
     }
 }
