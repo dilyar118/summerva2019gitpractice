@@ -12,7 +12,9 @@ public class SecondClass {
          GIT PUSH :
                     git push origin master
 
-         GIT PULL
+         GIT PULL:
+                    git pulll
+
 
          */
 
