@@ -5,7 +5,8 @@ public class SecondClass {
         String myname = "Humayra";
         System.out.println(myname);
         System.out.println("MOdified");
-        System.out.println("finla push");
+        System.out.println("this is another line");
+
 
 
         /**
@@ -16,10 +17,8 @@ public class SecondClass {
          GIT PULL:
                     git pulll
 
-
-
-
          */
+
 
     }
 }
